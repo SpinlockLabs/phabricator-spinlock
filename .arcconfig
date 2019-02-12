@@ -1,0 +1,7 @@
+{
+  "load": [
+    "arcanist/src",
+    "phabricator/src",
+    "libphutil/src"
+  ]
+}
